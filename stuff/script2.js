@@ -144,7 +144,12 @@
         "らららコッペパン",
         "I did it! I had a totally natural conversation with somebody!",
         "Why do you think people stay up at night?",
-        "This is what it feels like to sleep with someone?"
+        "This is what it feels like to sleep with someone?",
+        "Base of the Sun",
+        "What did the robot say to the centipede?",
+        "You must defeat Sheng Long to stand a chance.",
+        "I'm not going to let two professionals, who know what they're doing, tell me what to do.",
+        "実験対象:C.Dentata",
       ];
       var randomNumber = Math.floor(Math.random() * quotes.length);
       document.getElementById("quote").innerHTML = quotes[randomNumber];
